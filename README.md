@@ -18,5 +18,10 @@ right click on it
 hover over Patch
 click Fill with NOPs
 
+step 4 save the patch
+
+top menu → File → Patch File
+save it as a new file like vape_cracked.exe (press the export button and name it but DONT FORGET TO ADD .exe AT THE END)
+don't overwrite the original just in case
 
 That is all I did if u dont wanna do it or you dont have the loader feel free to use the exe here
