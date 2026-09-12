@@ -25,3 +25,5 @@ save it as a new file like vape_cracked.exe (press the export button and name it
 don't overwrite the original just in case
 
 That is all I did if u dont wanna do it or you dont have the loader feel free to use the exe here
+
+lmk if I should make a patcher so you dont gotta do allat
